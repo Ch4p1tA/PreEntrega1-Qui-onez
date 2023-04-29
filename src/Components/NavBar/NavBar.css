@@ -1,0 +1,30 @@
+header{
+    /* border: solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-bottom: 1px solid black;
+    background-color: whitesmoke;
+}
+
+ul{
+    /* border: solid blue; */
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+li{
+    /* border: solid red; */
+    display: inline-block;
+    margin: 1rem;
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.imgLogo{
+    /* border: solid green; */
+    height: 10%;
+    width: 10%;
+    margin: 1rem;
+}

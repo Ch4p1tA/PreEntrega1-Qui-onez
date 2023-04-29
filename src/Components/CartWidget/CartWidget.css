@@ -1,0 +1,20 @@
+.divCarrito{
+    /* border: solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+.imgCArrito{
+    /* border: solid red; */
+    height: 10%;
+    width: 10%;
+    cursor: pointer;
+}
+
+strong{
+    /* border: solid green; */
+    color: white;
+    background-color: black;
+    border-radius: 50%;
+}
